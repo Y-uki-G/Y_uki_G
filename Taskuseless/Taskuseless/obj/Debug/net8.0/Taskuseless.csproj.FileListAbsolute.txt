@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\Taskuseless\Taskuseless\bin\Debug\net8.0\Taskuseless.exe
+C:\Users\user\source\repos\Taskuseless\Taskuseless\bin\Debug\net8.0\Taskuseless.deps.json
+C:\Users\user\source\repos\Taskuseless\Taskuseless\bin\Debug\net8.0\Taskuseless.runtimeconfig.json
+C:\Users\user\source\repos\Taskuseless\Taskuseless\bin\Debug\net8.0\Taskuseless.dll
+C:\Users\user\source\repos\Taskuseless\Taskuseless\bin\Debug\net8.0\Taskuseless.pdb
+C:\Users\user\source\repos\Taskuseless\Taskuseless\obj\Debug\net8.0\Taskuseless.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Taskuseless\Taskuseless\obj\Debug\net8.0\Taskuseless.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Taskuseless\Taskuseless\obj\Debug\net8.0\Taskuseless.AssemblyInfo.cs
+C:\Users\user\source\repos\Taskuseless\Taskuseless\obj\Debug\net8.0\Taskuseless.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Taskuseless\Taskuseless\obj\Debug\net8.0\Taskuseless.dll
+C:\Users\user\source\repos\Taskuseless\Taskuseless\obj\Debug\net8.0\refint\Taskuseless.dll
+C:\Users\user\source\repos\Taskuseless\Taskuseless\obj\Debug\net8.0\Taskuseless.pdb
+C:\Users\user\source\repos\Taskuseless\Taskuseless\obj\Debug\net8.0\Taskuseless.genruntimeconfig.cache
+C:\Users\user\source\repos\Taskuseless\Taskuseless\obj\Debug\net8.0\ref\Taskuseless.dll

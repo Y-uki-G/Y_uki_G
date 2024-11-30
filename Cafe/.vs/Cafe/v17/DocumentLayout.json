@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\Cafe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7991187D-483C-400F-AF06-FCF42CCFEF6A}|Cafe\\Cafe.csproj|c:\\users\\user\\source\\repos\\cafe\\cafe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7991187D-483C-400F-AF06-FCF42CCFEF6A}|Cafe\\Cafe.csproj|solutionrelative:cafe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7991187D-483C-400F-AF06-FCF42CCFEF6A}|Cafe\\Cafe.csproj|c:\\users\\user\\source\\repos\\cafe\\cafe\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7991187D-483C-400F-AF06-FCF42CCFEF6A}|Cafe\\Cafe.csproj|solutionrelative:cafe\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7991187D-483C-400F-AF06-FCF42CCFEF6A}|Cafe\\Cafe.csproj|c:\\users\\user\\source\\repos\\cafe\\cafe\\teas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7991187D-483C-400F-AF06-FCF42CCFEF6A}|Cafe\\Cafe.csproj|solutionrelative:cafe\\teas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7991187D-483C-400F-AF06-FCF42CCFEF6A}|Cafe\\Cafe.csproj|c:\\users\\user\\source\\repos\\cafe\\cafe\\coffees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7991187D-483C-400F-AF06-FCF42CCFEF6A}|Cafe\\Cafe.csproj|solutionrelative:cafe\\coffees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Coffees.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Cafe\\Cafe\\Coffees.cs",
+              "RelativeDocumentMoniker": "Cafe\\Coffees.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Cafe\\Cafe\\Coffees.cs",
+              "RelativeToolTip": "Cafe\\Coffees.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAB8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T08:27:23.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Teas.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Cafe\\Cafe\\Teas.cs",
+              "RelativeDocumentMoniker": "Cafe\\Teas.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Cafe\\Cafe\\Teas.cs",
+              "RelativeToolTip": "Cafe\\Teas.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T08:27:12.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Shop.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Cafe\\Cafe\\Shop.cs",
+              "RelativeDocumentMoniker": "Cafe\\Shop.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Cafe\\Cafe\\Shop.cs",
+              "RelativeToolTip": "Cafe\\Shop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T08:10:24.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Cafe\\Cafe\\Program.cs",
+              "RelativeDocumentMoniker": "Cafe\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Cafe\\Cafe\\Program.cs",
+              "RelativeToolTip": "Cafe\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T08:08:50.747Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

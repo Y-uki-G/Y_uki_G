@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\TaskInt\TaskInt\bin\Debug\net8.0\TaskInt.exe
+C:\Users\user\source\repos\TaskInt\TaskInt\bin\Debug\net8.0\TaskInt.deps.json
+C:\Users\user\source\repos\TaskInt\TaskInt\bin\Debug\net8.0\TaskInt.runtimeconfig.json
+C:\Users\user\source\repos\TaskInt\TaskInt\bin\Debug\net8.0\TaskInt.dll
+C:\Users\user\source\repos\TaskInt\TaskInt\bin\Debug\net8.0\TaskInt.pdb
+C:\Users\user\source\repos\TaskInt\TaskInt\obj\Debug\net8.0\TaskInt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\TaskInt\TaskInt\obj\Debug\net8.0\TaskInt.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\TaskInt\TaskInt\obj\Debug\net8.0\TaskInt.AssemblyInfo.cs
+C:\Users\user\source\repos\TaskInt\TaskInt\obj\Debug\net8.0\TaskInt.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\TaskInt\TaskInt\obj\Debug\net8.0\TaskInt.dll
+C:\Users\user\source\repos\TaskInt\TaskInt\obj\Debug\net8.0\refint\TaskInt.dll
+C:\Users\user\source\repos\TaskInt\TaskInt\obj\Debug\net8.0\TaskInt.pdb
+C:\Users\user\source\repos\TaskInt\TaskInt\obj\Debug\net8.0\TaskInt.genruntimeconfig.cache
+C:\Users\user\source\repos\TaskInt\TaskInt\obj\Debug\net8.0\ref\TaskInt.dll
